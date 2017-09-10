@@ -5,6 +5,6 @@ Analysis using Set Intersection operation between sets of world trending topics 
 
 searching for a #hashtag and frequency Analysis, Visualizing the frequency data using matplotlib
 
-![Screenshot software]( "screenshot software")
+![Screenshot software](https://github.com/credo92/Tining/blob/master/Tining-1.png "screenshot software")
 
-![Screenshot software]( "screenshot software")
+![Screenshot software](https://github.com/credo92/Tining/blob/master/Tining-2.png "screenshot software")
